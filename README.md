@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @umarkhayaz
-- 👀 I’m interested in ML Applications in Civil and Structure Engineering
-- 🌱 I’m currently learning Python and ML Techniques
-- 💞️ I will be working primarily on ML Applications in the domain of Structural Engineering and Mechanics
+- 👀 PhD in Computational Science and Engineering
+- 🌱 Expert Areas: Theoretical and Computational Mechanics, Fracture Mechanics; Phase-Field Theories 
 - 📫 reach me on my email: umarkhayaz@gmail.com
 
 <!---
